@@ -20,7 +20,7 @@ Ein einfacher Texteditor basierend auf Java Swing, der grundlegende Textbearbeit
 1. Repository klonen oder den Code kopieren:
 
 ```bash
-$ git clone https://github.com/username/einfacher-notizblock.git
+$ git clone https://github.com/ElahehFayezi/einfacher-notizblock.git
 ```
 
 2. In das Verzeichnis wechseln:
