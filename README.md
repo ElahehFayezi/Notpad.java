@@ -49,10 +49,6 @@ $ java Notepad
 
 Beiträge, Fehlerberichte und Verbesserungsvorschläge sind immer willkommen! Öffne einfach ein Issue oder erstelle einen Pull-Request.
 
-## 📜 Lizenz
-
-Dieses Projekt steht unter der MIT-Lizenz. Weitere Details findest du in der Datei `LICENSE`.
-
 ## ✉️ Kontakt
 
 * Email: eng.elahehfayezi@gmail.com
