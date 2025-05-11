@@ -55,7 +55,7 @@ Dieses Projekt steht unter der MIT-Lizenz. Weitere Details findest du in der Dat
 
 ## ✉️ Kontakt
 
-* Email: [your-email@example.com](mailto:your-email@example.com)
-* GitHub: [your-username](https://github.com/your-username)
+* Email: eng.elahehfayezi@gmail.com
+* GitHub:https://github.com/ElahehFayezi
 
 Viel Spaß beim Programmieren! 😊
